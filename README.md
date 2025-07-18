@@ -1,6 +1,6 @@
 <h1><center>**Product Store**</center></h1>
 <br>
-![image alt](https://github.com/pasindu2001-SW/Product-Store-MERN-/blob/8128e38d77842d38410a5f11f4030c26be69625d/product%20store.png)
+<img width="1899" height="901" alt="product store" src="https://github.com/user-attachments/assets/777b0cad-f111-4b67-84e9-a6ef256bef3a" />
 
 About This Project:
 <ul>
